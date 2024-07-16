@@ -89,7 +89,7 @@ font-family:Georgia, 'Times New Roman', Times, serif ;
     position: absolute;
     top:200%;
 margin-left: 75px;
-margin-top: -50px;
+margin-top: -10px;
 }
 .img{
     display: flex;
@@ -102,6 +102,7 @@ background-color: black;
 }
 .img p{
 margin: 20px;
+margin-top:40px;
 }
 .img img{
     width: 50px;
